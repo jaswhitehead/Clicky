@@ -1,50 +1,50 @@
 module.exports = [
     {
-        name: 'Spongebob',
-        image: '/images/spongebob.png'
+        name: 'Cleveland',
+        image: '/images/cleveland.jpg'
     },
     {
-        name: 'Gary',
-        image: '/images/gary.png'
+        name: 'Peter',
+        image: '/images/Peter.jpg'
     },
     {
-        name: 'Hash Slinging... Mash Wringing... Pash Bringing... Hash Slinging Slasher',
-        image: '/images/hash.png'
+        name: 'Quagmire',
+        image: '/images/Quagmire.jpg'
     },
     {
-        name: 'Jellyfish',
-        image: '/images/jellyfish.png'
+        name: 'Stewie',
+        image: '/images/stewie.png'
     },
     {
-        name: 'Mister Krabs',
-        image: '/images/krabs.png'
+        name: 'Louis',
+        image: '/images/louis.jpg'
     },
     {
-        name: 'The My Leg Guy',
-        image: '/images/myleg.png'
+        name: 'Chris',
+        image: '/images/Chris.jpg'
     },
     {
-        name: 'Patrick',
-        image: '/images/patrick.png'
+        name: 'Brian',
+        image: '/images/brian.jpg'
     },
     {
-        name: 'Pearl',
-        image: '/images/pearl.png'
+        name: 'Meg',
+        image: '/images/meg.jpg'
     },
     {
-        name: 'Plankton',
-        image: '/images/plankton.png'
+        name: 'Joe',
+        image: '/images/joe.png'
     },
     {
-        name: 'Mrs. Puff',
-        image: '/images/puff.png'
+        name: 'Herbert',
+        image: '/images/herbert.jpg'
     },
     {
-        name: 'Sandy',
-        image: '/images/sandy.png'
+        name: 'Carter Pewterschmidt',
+        image: '/images/carter.jpg'
     },
     {
-        name: 'Squidward',
-        image: '/images/squidward.png'
+        name: 'Chicken',
+        image: '/images/chicken.png'
     }
 ]

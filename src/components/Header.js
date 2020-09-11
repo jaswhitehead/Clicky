@@ -21,8 +21,8 @@ class Header extends React.Component {
         }
         return (
             <div style={style}>
-                <Title>Click Me Spongebob</Title>
-                <Description>Click an image to gain points, but don't click any image more than once. Every 12 points, you can click all images again.</Description>
+                <Title>Family Guy Click Game</Title>
+                <Description>Click on a character, but don't click any character more than once. Get all 12 and you can click them all again. Try for a new High Score!</Description>
                 <Score score={this.props.score} />
                 <Timer time={this.props.time} />
             </div>

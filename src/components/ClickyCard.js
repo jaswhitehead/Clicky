@@ -39,7 +39,7 @@ class ClickyCard extends React.Component {
         return (
             <div style={style} onMouseDown={this.handleMouseDown} onMouseUp={this.handleMouseUp} onClick={this.handleClick} onMouseOver={this.onHover} onMouseOut={this.onHoverEnd}>
                 <ClickyImage image={this.props.image} name={this.props.name} />
-                <Warning hidden={!this.state.mouseDown}>Barnacles! You Lost!</Warning>
+                <Warning hidden={!this.state.mouseDown}>Caught in a Quagmire! You Lost!</Warning>
             </div>
         )
     }
