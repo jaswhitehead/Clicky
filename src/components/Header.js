@@ -7,8 +7,8 @@ import Timer from './Timer';
 class Header extends React.Component {
     render() {
         const style = {
-            backgroundColor: "#d85411",
-            color: "#eeeeee",
+            backgroundColor: '#FF9E4C',
+            color: "black",
             textAlign: "center",
             padding: "20px",
             textShadow: "2px 2px 5px rgba(0, 0, 0, 0.4)",
