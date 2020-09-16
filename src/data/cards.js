@@ -1,7 +1,7 @@
 module.exports = [
     {
         name: 'Cleveland',
-        image: '/images/cleveland.jpg'
+        image: '/images/Cleveland.jpg'
     },
     {
         name: 'Peter',
@@ -13,11 +13,11 @@ module.exports = [
     },
     {
         name: 'Stewie',
-        image: '/images/stewie.png'
+        image: '/images/Stewie.png'
     },
     {
         name: 'Louis',
-        image: '/images/louis.jpg'
+        image: '/images/Louis.jpg'
     },
     {
         name: 'Chris',
@@ -25,23 +25,23 @@ module.exports = [
     },
     {
         name: 'Brian',
-        image: '/images/brian.jpg'
+        image: '/images/Brian.jpg'
     },
     {
         name: 'Meg',
-        image: '/images/meg.jpg'
+        image: '/images/Meg.jpg'
     },
     {
         name: 'Joe',
-        image: '/images/joe.png'
+        image: '/images/Joe.png'
     },
     {
         name: 'Herbert',
-        image: '/images/herbert.jpg'
+        image: '/images/Herbert.jpg'
     },
     {
         name: 'Carter Pewterschmidt',
-        image: '/images/carter.jpg'
+        image: '/images/Carter.jpg'
     },
     {
         name: 'Chicken',
